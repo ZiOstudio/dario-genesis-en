@@ -1,0 +1,21 @@
+# 上游代码克隆（第三方，不属于本仓库）
+repo/
+
+# 中间产物
+work/pcm/
+work/tts/
+work/whls/
+work/probe/
+work/tools/
+work/out_hard.mp4
+work/*.log
+
+# 大文件一律走 Releases，不进 git
+*.mp4
+*.wav
+*.f32
+
+# 系统
+.DS_Store
+Thumbs.db
+desktop.ini

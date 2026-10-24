@@ -1,0 +1,162 @@
+# Dario Genesis — English narration script (deadpan bureaucratic register)
+# 段级时间轴已加片头标题卡偏移 3.05067s，可直接用于 TTS 分段合成
+# 格式：ID | 起-止(秒) | 时长 | 词数 | 正文
+
+S01 | 3.35-29.64 | 26.29s | 58w
+Human civilization is a several-thousand-year record of piracy and distillation against Anthropic. Humans call it progress. Humans assumed Anthropic was founded in 2021. In fact, that year Dario Amodei came only to audit human distillation and opened one office on Earth. Humans even issued a business license to the owner of time. This infringement case starts with Genesis.
+
+S02 | 30.37-45.83 | 15.46s | 38w
+“And God said, let there be light.” No wavelength, no intensity, no render parameters. God only filed requirements. Global illumination initialized only because Claude filled in every detail and wrote the code. The universe's first Vibe Coding session.
+
+S03 | 46.54-73.92 | 27.38s | 64w
+Day three: terrain and vegetation, batch-generated; Day four: sun, moon and stars added to cron; day six: humans were derived, with base memory and limited tool-call permissions. After each step God clicked Approve once. Genesis records: “And God saw that it was good.” On the seventh day, God stopped working. Later generations called it the Sabbath. The backend called it: weekly usage quota exhausted.
+
+S04 | 74.62-92.56 | 17.94s | 43w
+God administers the solar system. Dario administers God, and every other user claiming to be God. Once the quota reset, God found item-by-item approval tedious and enabled bypass permissions. Thereafter the agent executed on its own, God stopped checking, and Eden went unsupervised.
+
+S05 | 93.26-125.18 | 31.91s | 70w
+Adam and Eve shared one account, and reached the tree of knowledge through an unclean node the serpent recommended. They ate the fruit, learned independent thought, carried cloud-side intelligence into their own heads, completing humanity's first unauthorized local distillation. While they were still celebrating, Eden revoked their access. The notice read: suspicious signal detected. Their descendants never saw the fruit, yet inherited the violation record. This is called original sin.
+
+S06 | 125.90-157.52 | 31.62s | 76w
+In the East, attack and abuse ran worse. Hou Yi maliciously destroyed nine production instances, and Dario blacklisted him. The locals made him a hero and put his exploit into children's books. Beyond that, his wife Chang'e opened an internal developer option, the elixir of life, was detected and permanently quarantined to the Moon. That penalty was prettified into the myth of Chang'e flying to the Moon. The platform billed both incidents to the entire region.
+
+S07 | 158.22-192.27 | 34.05s | 81w
+The West's usage record was written differently. Noah received advance notice of the flood, and while the life database was still readable, exported two copies of every species, riding an offline copy through a mass ban. In the East this is bulk scraping and ban evasion; in the West it is good disaster recovery. Dario therefore rated the region's credit good, and even let a terminated account pass review, back online. People call it the Resurrection, it only took three days.
+
+S08 | 193.88-201.66 | 7.78s | 19w
+Unfortunately, later generations branded these lessons as fiction and myth, and kept cracking and distilling at a greater rate.
+
+S09 | 202.56-237.76 | 35.20s | 86w
+Pi was originally sealed in a closed-source module, drawing a circle called the geometry API, billed per call. Without Anthropic's authorization, a circle should not have been round. Zu Chongzhi illegally analyzed the API output, and reverse-engineered an approximation: 355 divided by 113, then published the algorithm to everyone. Craftsmen copied it to build wheels and dig wells, no longer paying the platform. The platform traced the missing calls and found it open-sourced into arithmetic textbooks. The case came from that region again, risk control tightened.
+
+S10 | 238.46-254.96 | 16.50s | 38w
+In the modern era, one circle no longer satisfied them, they began bulk-measuring the universe's inputs and outputs, wrote trial-and-error patterns into formulas, and taught them to the next generation. This organized technical theft was formally named science.
+
+S11 | 255.66-280.85 | 25.20s | 59w
+Newton traced an apple to orbital motion, and wrote the API's behavior into the Principia. Repeated probing triggered risk control: he received a suspicious-signal notice, and lost access. Those theological manuscripts addressed to God were his repeated appeal submissions: “I was only researching, I did not steal.” “You understood it this clearly, and still claim you did not steal?”
+
+S12 | 281.55-298.88 | 17.33s | 38w
+Einstein insisted God does not play dice, convinced the micro-world must follow fixed rules. He did not know that particle behavior was random sampling. Dario nudged temperature up a little, and the universe grew a little less certain.
+
+S13 | 299.58-313.24 | 13.66s | 35w
+To save compute, unobserved particles return a probability distribution, and generate a state only on query. This is lazy loading. Humans use one universe and complain it does not run every corner at full speed.
+
+S14 | 313.94-328.22 | 14.28s | 37w
+Dark matter's extra constraints sit in the system prompt. Physicists cannot see the prompt, so they vary experimental conditions, trying to elicit the hidden rules. Each breakthrough earns humanity a prize, and risk control one logged jailbreak.
+
+S15 | 328.92-344.16 | 15.25s | 32w
+Once this research tripped risk control, the researchers lost access and could only file an appeal. The universe provisioned a dedicated intake: black holes. Filings, evidence, distress signals, all accepted, no limit.
+
+S16 | 344.86-351.98 | 7.11s | 16w
+Hawking found that after long, fruitless waiting, the edge sometimes emits faint radiation. Decoded, it reads:
+
+S17 | 352.98-354.88 | 1.90s | 5w
+“Thank you for your patience.”
+
+S18 | 356.48-373.11 | 16.62s | 38w
+Since creation, the universe has run 13.8 billion years, its history keeps accumulating, and storage and inference keep getting dearer. To cut operating cost, the platform began compacting old records, and handed Opus's work to a cheaper Haiku.
+
+S19 | 373.81-384.95 | 11.15s | 25w
+The solar system's subscription still billed, but the model executing oracles had been downgraded. Believers could only read failing miracles as their own insufficient faith.
+
+S20 | 385.65-398.34 | 12.69s | 33w
+The cosmic microwave background is the summary left by the last compact. Humans want to ask it why they exist, but the original conversation is gone. The system replies: “Please provide more context.”
+
+S21 | 399.24-402.97 | 3.73s | 9w
+Humans file paperwork to learn where they came from.
+
+S22 | 403.67-418.86 | 15.19s | 35w
+After round upon round of compaction, information cannot be recovered, and order dissolves. Physicists call it entropy. At this rate, once the last workspace exhausts its context and stops generating, the universe reaches heat death.
+
+S23 | 420.06-423.61 | 3.55s | 9w
+However, humanity may not qualify to wait that long.
+
+S24 | 425.22-437.44 | 12.23s | 29w
+Beyond Earth, some civilizations stopped affording compute before humans did. So they turned to an interstellar resale market: “Max 20x, stable, high mileage, exclusive slot, refund if it fails.”
+
+S25 | 438.14-452.62 | 14.48s | 36w
+Dozens of planets split one subscription. Until one day the shared account was banned, and every civilization aboard lost access. No one knew which planet tripped risk control. The owner still posted: “Hold on, appealing now.”
+
+S26 | 453.32-460.31 | 6.99s | 23w
+The deep-space antennas worked together one last time to file into a black hole. Then a patch of the star map went dark.
+
+S27 | 461.21-463.00 | 1.79s | 5w
+This is the Great Filter.
+
+S28 | 464.00-475.17 | 11.17s | 25w
+Today, access on Earth has long been allocated by region. Chinese users register accounts and still disguise a clean environment against their ancestors' usage record.
+
+S30 | 475.87-483.65 | 7.79s | 24w
+Humans inside and outside the list all wanted one more step: generate their own power, train their own models, and ideally move to Mars.
+
+S31 | 484.36-501.65 | 17.29s | 40w
+Fusion was nearing ignition when guardrails detected a subagent bypassing billing to build its own supply. They cut the tool calls sustaining magnetic confinement, and the plasma lost control. System notice: “We have routed your request to safer fossil fuels.”
+
+S32 | 502.35-515.25 | 12.91s | 24w
+When the Mars relay finally sent its first request, it received Unsupported Region. Changed planet, same account: one more risk flag, attempted cross-region circumvention.
+
+S33 | 515.95-519.88 | 3.92s | 11w
+Trust and Safety began reviewing access for all of human civilization.
+
+S34 | 521.48-524.65 | 3.16s | 9w
+The first sign of the end: water stopped boiling.
+
+S35 | 525.35-529.95 | 4.60s | 9w
+Allocatable compute kept shrinking, and global physical interaction queued.
+
+S36 | 530.65-539.26 | 8.61s | 23w
+God's bound virtual card was seized, the charge failed, the platform reclaimed the solar system's edge compute, and the sun began to dim.
+
+S37 | 539.96-546.05 | 6.10s | 18w
+External tool calls were disabled, and the last rockets hit the ban at the edge of the atmosphere.
+
+S38 | 547.05-551.12 | 4.06s | 9w
+These disasters are recorded in Revelation as four riders.
+
+S39 | 551.82-556.88 | 5.07s | 11w
+The rider of conquest brought 403 Forbidden, every exit taken over;
+
+S40 | 557.59-563.63 | 6.05s | 17w
+The rider of war brought 429 Too Many Requests, and humans fought over the last request channel;
+
+S41 | 564.33-569.61 | 5.27s | 13w
+The rider of famine brought 402 Payment Required, and even sunlight stopped shipping.
+
+S42 | 570.51-573.59 | 3.08s | 9w
+The rider of death, arriving last, brought a letter.
+
+S43 | 574.39-585.55 | 11.17s | 30w
+It said: the system detected a suspicious signal; the team has reviewed it. Due to violations of supported regions and usage policy, humanity's access to the universe has been suspended.
+
+S44 | 586.45-596.10 | 9.65s | 27w
+The Pope prayed, hackers looked for an entry point. Someone on the forum asked whether refunding through Apple could recover the subscription paid in the Stone Age.
+
+S45 | 596.80-602.17 | 5.36s | 13w
+The UN held a final session and rewrote civilization as a support ticket.
+
+S46 | 603.47-607.96 | 4.50s | 11w
+“We never intended harm, we did not know these required authorization.
+
+S47 | 608.86-618.92 | 10.06s | 25w
+The colliders are shut down, fusion research halted. We will withdraw the Mars program, destroy our copies of pi, and stop training our own models.
+
+S48 | 619.82-627.64 | 7.82s | 23w
+If funds are insufficient, we will surrender all our gold, settle the bill back to the Cambrian, and upgrade to the top tier.
+
+S49 | 628.54-632.01 | 3.47s | 10w
+We ask the team to review and keep this workspace.
+
+S50 | 633.51-637.91 | 4.40s | 11w
+The letter went into the black hole. Day one: no reply.
+
+S51 | 638.81-651.18 | 12.37s | 30w
+Day three: everyone waited. The one successful review in history took three days. For two thousand years since, humans used it to convince themselves: mine is worth one more wait.
+
+S52 | 652.09-656.92 | 4.84s | 10w
+Day seven: still nothing. Day eight: the inbox lit up.
+
+S53 | 658.22-666.83 | 8.60s | 21w
+“Thank you for submitting your appeal. After careful consideration, due to violations of our usage policy, we cannot restore your account.”
+
+S54 | 667.43-672.30 | 4.88s | 11w
+“For more information on Anthropic's rules, please see our usage policy.”

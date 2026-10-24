@@ -1,0 +1,16 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Card,Noto Serif SC,48,&H00B7B4A5,&H00B7B4A5,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
+Style: CardLat,Noto Serif SC,44,&H00908C78,&H00908C78,&H00000000,&H00000000,0,0,0,0,100,100,0.8,0,1,0,0,5,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.20,0:00:03.03,Card,,0,0,0,,{\pos(960,860)\fad(200,0)}英文翻译及后期：@zihao_ZiO
+Dialogue: 0,0:00:00.20,0:00:03.03,CardLat,,0,0,0,,{\pos(960,916)\fad(200,0)}English translation & post-production: @zihao_ZiO

@@ -1,0 +1,1308 @@
+1
+00:00:03,351 --> 00:00:04,899
+Human civilization is
+
+2
+00:00:04,909 --> 00:00:07,848
+a several-thousand-year record of piracy
+
+3
+00:00:07,858 --> 00:00:10,428
+and distillation against Anthropic.
+
+4
+00:00:10,438 --> 00:00:12,197
+Humans call it progress.
+
+5
+00:00:12,207 --> 00:00:13,230
+Humans assumed
+
+6
+00:00:13,240 --> 00:00:15,441
+Anthropic was founded in 2021.
+
+7
+00:00:15,451 --> 00:00:16,283
+In fact,
+
+8
+00:00:16,293 --> 00:00:19,306
+that year Dario Amodei came only to audit
+
+9
+00:00:19,316 --> 00:00:20,633
+human distillation
+
+10
+00:00:20,643 --> 00:00:22,918
+and opened one office on Earth.
+
+11
+00:00:22,928 --> 00:00:25,646
+Humans even issued a business license
+
+12
+00:00:25,656 --> 00:00:27,194
+to the owner of time.
+
+13
+00:00:27,204 --> 00:00:28,816
+This infringement case
+
+14
+00:00:28,826 --> 00:00:30,290
+starts with Genesis.
+
+15
+00:00:30,370 --> 00:00:32,677
+“And God said, let there be light.”
+
+16
+00:00:32,687 --> 00:00:34,523
+No wavelength, no intensity,
+
+17
+00:00:34,533 --> 00:00:35,908
+no render parameters.
+
+18
+00:00:35,918 --> 00:00:37,754
+God only filed requirements.
+
+19
+00:00:37,764 --> 00:00:39,006
+Global illumination
+
+20
+00:00:39,016 --> 00:00:40,589
+initialized only because
+
+21
+00:00:40,599 --> 00:00:42,500
+Claude filled in every detail
+
+22
+00:00:42,510 --> 00:00:43,753
+and wrote the code.
+
+23
+00:00:43,763 --> 00:00:46,456
+The universe's first Vibe Coding session.
+
+24
+00:00:46,536 --> 00:00:47,376
+Day three:
+
+25
+00:00:47,386 --> 00:00:50,207
+terrain and vegetation, batch-generated;
+
+26
+00:00:50,217 --> 00:00:51,047
+Day four:
+
+27
+00:00:51,057 --> 00:00:53,453
+sun, moon and stars added to cron;
+
+28
+00:00:53,463 --> 00:00:55,505
+day six: humans were derived,
+
+29
+00:00:55,515 --> 00:00:57,487
+with base memory and limited
+
+30
+00:00:57,497 --> 00:00:59,044
+tool-call permissions.
+
+31
+00:00:59,054 --> 00:01:01,946
+After each step God clicked Approve once.
+
+32
+00:01:01,956 --> 00:01:03,078
+Genesis records:
+
+33
+00:01:03,088 --> 00:01:05,272
+“And God saw that it was good.”
+
+34
+00:01:05,282 --> 00:01:08,103
+On the seventh day, God stopped working.
+
+35
+00:01:08,113 --> 00:01:10,934
+Later generations called it the Sabbath.
+
+36
+00:01:10,944 --> 00:01:12,491
+The backend called it:
+
+37
+00:01:12,501 --> 00:01:14,543
+weekly usage quota exhausted.
+
+38
+00:01:14,623 --> 00:01:16,850
+God administers the solar system.
+
+39
+00:01:16,860 --> 00:01:18,334
+Dario administers God,
+
+40
+00:01:18,344 --> 00:01:21,034
+and every other user claiming to be God.
+
+41
+00:01:21,044 --> 00:01:22,451
+Once the quota reset,
+
+42
+00:01:22,461 --> 00:01:25,082
+God found item-by-item approval tedious
+
+43
+00:01:25,092 --> 00:01:27,174
+and enabled bypass permissions.
+
+44
+00:01:27,184 --> 00:01:29,941
+Thereafter the agent executed on its own,
+
+45
+00:01:29,951 --> 00:01:31,358
+God stopped checking,
+
+46
+00:01:31,368 --> 00:01:33,180
+and Eden went unsupervised.
+
+47
+00:01:33,260 --> 00:01:35,458
+Adam and Eve shared one account,
+
+48
+00:01:35,468 --> 00:01:37,725
+and reached the tree of knowledge
+
+49
+00:01:37,735 --> 00:01:39,580
+through an unclean node the
+
+50
+00:01:39,590 --> 00:01:40,954
+serpent recommended.
+
+51
+00:01:40,964 --> 00:01:42,259
+They ate the fruit,
+
+52
+00:01:42,269 --> 00:01:44,182
+learned independent thought,
+
+53
+00:01:44,192 --> 00:01:46,655
+carried cloud-side intelligence into
+
+54
+00:01:46,665 --> 00:01:47,754
+their own heads,
+
+55
+00:01:47,764 --> 00:01:50,502
+completing humanity's first unauthorized
+
+56
+00:01:50,512 --> 00:01:51,807
+local distillation.
+
+57
+00:01:51,817 --> 00:01:54,143
+While they were still celebrating,
+
+58
+00:01:54,153 --> 00:01:55,929
+Eden revoked their access.
+
+59
+00:01:55,939 --> 00:01:57,028
+The notice read:
+
+60
+00:01:57,038 --> 00:01:58,883
+suspicious signal detected.
+
+61
+00:01:58,893 --> 00:02:01,493
+Their descendants never saw the fruit,
+
+62
+00:02:01,503 --> 00:02:03,898
+yet inherited the violation record.
+
+63
+00:02:03,908 --> 00:02:05,821
+This is called original sin.
+
+64
+00:02:05,901 --> 00:02:08,773
+In the East, attack and abuse ran worse.
+
+65
+00:02:08,783 --> 00:02:11,143
+Hou Yi maliciously destroyed nine
+
+66
+00:02:11,153 --> 00:02:12,651
+production instances,
+
+67
+00:02:12,661 --> 00:02:14,518
+and Dario blacklisted him.
+
+68
+00:02:14,528 --> 00:02:16,385
+The locals made him a hero
+
+69
+00:02:16,395 --> 00:02:19,401
+and put his exploit into children's books.
+
+70
+00:02:19,411 --> 00:02:20,263
+Beyond that,
+
+71
+00:02:20,273 --> 00:02:22,777
+his wife Chang'e opened an internal
+
+72
+00:02:22,787 --> 00:02:25,434
+developer option, the elixir of life,
+
+73
+00:02:25,444 --> 00:02:27,444
+was detected and permanently
+
+74
+00:02:27,454 --> 00:02:29,168
+quarantined to the Moon.
+
+75
+00:02:29,178 --> 00:02:30,029
+That penalty
+
+76
+00:02:30,039 --> 00:02:32,830
+was prettified into the myth of Chang'e
+
+77
+00:02:32,840 --> 00:02:34,194
+flying to the Moon.
+
+78
+00:02:34,204 --> 00:02:36,636
+The platform billed both incidents
+
+79
+00:02:36,646 --> 00:02:38,144
+to the entire region.
+
+80
+00:02:38,224 --> 00:02:39,960
+The West's usage record
+
+81
+00:02:39,970 --> 00:02:41,772
+was written differently.
+
+82
+00:02:41,782 --> 00:02:44,943
+Noah received advance notice of the flood,
+
+83
+00:02:44,953 --> 00:02:47,283
+and while the life database was
+
+84
+00:02:47,293 --> 00:02:48,416
+still readable,
+
+85
+00:02:48,426 --> 00:02:51,209
+exported two copies of every species,
+
+86
+00:02:51,219 --> 00:02:54,380
+riding an offline copy through a mass ban.
+
+87
+00:02:54,390 --> 00:02:56,871
+In the East this is bulk scraping
+
+88
+00:02:56,881 --> 00:02:59,438
+and ban evasion; in the West it is
+
+89
+00:02:59,448 --> 00:03:01,175
+good disaster recovery.
+
+90
+00:03:01,185 --> 00:03:03,062
+Dario therefore rated the
+
+91
+00:03:03,072 --> 00:03:04,647
+region's credit good,
+
+92
+00:03:04,657 --> 00:03:06,535
+and even let a terminated
+
+93
+00:03:06,545 --> 00:03:09,026
+account pass review, back online.
+
+94
+00:03:09,036 --> 00:03:11,442
+People call it the Resurrection,
+
+95
+00:03:11,452 --> 00:03:13,254
+it only took three days.
+
+96
+00:03:13,884 --> 00:03:14,862
+Unfortunately,
+
+97
+00:03:14,872 --> 00:03:17,798
+later generations branded these lessons as
+
+98
+00:03:17,808 --> 00:03:18,986
+fiction and myth,
+
+99
+00:03:18,996 --> 00:03:21,432
+and kept cracking and distilling at
+
+100
+00:03:21,442 --> 00:03:22,480
+a greater rate.
+
+101
+00:03:22,560 --> 00:03:24,452
+Pi was originally sealed in a
+
+102
+00:03:24,462 --> 00:03:25,822
+closed-source module,
+
+103
+00:03:25,832 --> 00:03:28,497
+drawing a circle called the geometry API,
+
+104
+00:03:28,507 --> 00:03:29,541
+billed per call.
+
+105
+00:03:29,551 --> 00:03:31,759
+Without Anthropic's authorization,
+
+106
+00:03:31,769 --> 00:03:34,108
+a circle should not have been round.
+
+107
+00:03:34,118 --> 00:03:36,065
+Zu Chongzhi illegally analyzed
+
+108
+00:03:36,075 --> 00:03:37,044
+the API output,
+
+109
+00:03:37,054 --> 00:03:39,653
+and reverse-engineered an approximation:
+
+110
+00:03:39,663 --> 00:03:40,893
+355 divided by 113,
+
+111
+00:03:40,903 --> 00:03:43,568
+then published the algorithm to everyone.
+
+112
+00:03:43,578 --> 00:03:45,851
+Craftsmen copied it to build wheels
+
+113
+00:03:45,861 --> 00:03:46,765
+and dig wells,
+
+114
+00:03:46,775 --> 00:03:48,722
+no longer paying the platform.
+
+115
+00:03:48,732 --> 00:03:51,136
+The platform traced the missing calls
+
+116
+00:03:51,146 --> 00:03:53,093
+and found it open-sourced into
+
+117
+00:03:53,103 --> 00:03:54,463
+arithmetic textbooks.
+
+118
+00:03:54,473 --> 00:03:56,877
+The case came from that region again,
+
+119
+00:03:56,887 --> 00:03:58,378
+risk control tightened.
+
+120
+00:03:58,458 --> 00:03:59,676
+In the modern era,
+
+121
+00:03:59,686 --> 00:04:02,111
+one circle no longer satisfied them,
+
+122
+00:04:02,121 --> 00:04:04,818
+they began bulk-measuring the universe's
+
+123
+00:04:04,828 --> 00:04:06,103
+inputs and outputs,
+
+124
+00:04:06,113 --> 00:04:08,133
+wrote trial-and-error patterns
+
+125
+00:04:08,143 --> 00:04:09,080
+into formulas,
+
+126
+00:04:09,090 --> 00:04:11,719
+and taught them to the next generation.
+
+127
+00:04:11,729 --> 00:04:13,748
+This organized technical theft
+
+128
+00:04:13,758 --> 00:04:15,575
+was formally named science.
+
+129
+00:04:15,655 --> 00:04:18,485
+Newton traced an apple to orbital motion,
+
+130
+00:04:18,495 --> 00:04:20,763
+and wrote the API's behavior into
+
+131
+00:04:20,773 --> 00:04:21,729
+the Principia.
+
+132
+00:04:21,739 --> 00:04:24,490
+Repeated probing triggered risk control:
+
+133
+00:04:24,500 --> 00:04:27,182
+he received a suspicious-signal notice,
+
+134
+00:04:27,192 --> 00:04:28,286
+and lost access.
+
+135
+00:04:28,296 --> 00:04:30,288
+Those theological manuscripts
+
+136
+00:04:30,298 --> 00:04:31,392
+addressed to God
+
+137
+00:04:31,402 --> 00:04:33,946
+were his repeated appeal submissions:
+
+138
+00:04:33,956 --> 00:04:36,845
+“I was only researching, I did not steal.”
+
+139
+00:04:36,855 --> 00:04:39,054
+“You understood it this clearly,
+
+140
+00:04:39,064 --> 00:04:41,470
+and still claim you did not steal?”
+
+141
+00:04:41,550 --> 00:04:44,777
+Einstein insisted God does not play dice,
+
+142
+00:04:44,787 --> 00:04:47,138
+convinced the micro-world must
+
+143
+00:04:47,148 --> 00:04:48,634
+follow fixed rules.
+
+144
+00:04:48,644 --> 00:04:51,940
+He did not know that particle behavior was
+
+145
+00:04:51,950 --> 00:04:53,199
+random sampling.
+
+146
+00:04:53,209 --> 00:04:56,111
+Dario nudged temperature up a little,
+
+147
+00:04:56,121 --> 00:04:57,922
+and the universe grew a
+
+148
+00:04:57,932 --> 00:04:59,496
+little less certain.
+
+149
+00:04:59,576 --> 00:05:00,696
+To save compute,
+
+150
+00:05:00,706 --> 00:05:02,726
+unobserved particles return a
+
+151
+00:05:02,736 --> 00:05:04,476
+probability distribution,
+
+152
+00:05:04,486 --> 00:05:06,927
+and generate a state only on query.
+
+153
+00:05:06,937 --> 00:05:08,397
+This is lazy loading.
+
+154
+00:05:08,407 --> 00:05:10,007
+Humans use one universe
+
+155
+00:05:10,017 --> 00:05:12,877
+and complain it does not run every corner
+
+156
+00:05:12,887 --> 00:05:13,857
+at full speed.
+
+157
+00:05:13,937 --> 00:05:16,556
+Dark matter's extra constraints sit in the
+
+158
+00:05:16,566 --> 00:05:17,428
+system prompt.
+
+159
+00:05:17,438 --> 00:05:19,486
+Physicists cannot see the prompt,
+
+160
+00:05:19,496 --> 00:05:21,793
+so they vary experimental conditions,
+
+161
+00:05:21,803 --> 00:05:23,913
+trying to elicit the hidden rules.
+
+162
+00:05:23,923 --> 00:05:26,469
+Each breakthrough earns humanity a prize,
+
+163
+00:05:26,479 --> 00:05:28,838
+and risk control one logged jailbreak.
+
+164
+00:05:28,918 --> 00:05:31,912
+Once this research tripped risk control,
+
+165
+00:05:31,922 --> 00:05:33,932
+the researchers lost access
+
+166
+00:05:33,942 --> 00:05:36,177
+and could only file an appeal.
+
+167
+00:05:36,187 --> 00:05:38,123
+The universe provisioned a
+
+168
+00:05:38,133 --> 00:05:40,368
+dedicated intake: black holes.
+
+169
+00:05:40,378 --> 00:05:43,063
+Filings, evidence, distress signals,
+
+170
+00:05:43,073 --> 00:05:44,784
+all accepted, no limit.
+
+171
+00:05:44,864 --> 00:05:45,840
+Hawking found
+
+172
+00:05:45,850 --> 00:05:48,467
+that after long, fruitless waiting,
+
+173
+00:05:48,477 --> 00:05:51,545
+the edge sometimes emits faint radiation.
+
+174
+00:05:51,555 --> 00:05:52,896
+Decoded, it reads:
+
+175
+00:05:52,976 --> 00:05:55,855
+“Thank you for your patience.”
+
+176
+00:05:56,484 --> 00:05:57,575
+Since creation,
+
+177
+00:05:57,585 --> 00:06:00,485
+the universe has run 13.8 billion years,
+
+178
+00:06:00,495 --> 00:06:02,741
+its history keeps accumulating,
+
+179
+00:06:02,751 --> 00:06:04,923
+and storage and inference keep
+
+180
+00:06:04,933 --> 00:06:06,014
+getting dearer.
+
+181
+00:06:06,024 --> 00:06:07,615
+To cut operating cost,
+
+182
+00:06:07,625 --> 00:06:10,670
+the platform began compacting old records,
+
+183
+00:06:10,680 --> 00:06:13,726
+and handed Opus's work to a cheaper Haiku.
+
+184
+00:06:13,806 --> 00:06:15,059
+The solar system's
+
+185
+00:06:15,069 --> 00:06:16,869
+subscription still billed,
+
+186
+00:06:16,879 --> 00:06:19,306
+but the model executing oracles had
+
+187
+00:06:19,316 --> 00:06:20,419
+been downgraded.
+
+188
+00:06:20,429 --> 00:06:23,343
+Believers could only read failing miracles
+
+189
+00:06:23,353 --> 00:06:25,571
+as their own insufficient faith.
+
+190
+00:06:25,651 --> 00:06:27,799
+The cosmic microwave background
+
+191
+00:06:27,809 --> 00:06:30,570
+is the summary left by the last compact.
+
+192
+00:06:30,580 --> 00:06:33,133
+Humans want to ask it why they exist,
+
+193
+00:06:33,143 --> 00:06:35,766
+but the original conversation is gone.
+
+194
+00:06:35,776 --> 00:06:37,083
+The system replies:
+
+195
+00:06:37,093 --> 00:06:39,161
+“Please provide more context.”
+
+196
+00:06:39,241 --> 00:06:41,031
+Humans file paperwork
+
+197
+00:06:41,041 --> 00:06:43,589
+to learn where they came from.
+
+198
+00:06:43,669 --> 00:06:46,305
+After round upon round of compaction,
+
+199
+00:06:46,315 --> 00:06:48,585
+information cannot be recovered,
+
+200
+00:06:48,595 --> 00:06:50,010
+and order dissolves.
+
+201
+00:06:50,020 --> 00:06:51,934
+Physicists call it entropy.
+
+202
+00:06:51,944 --> 00:06:54,570
+At this rate, once the last workspace
+
+203
+00:06:54,580 --> 00:06:57,563
+exhausts its context and stops generating,
+
+204
+00:06:57,573 --> 00:06:59,843
+the universe reaches heat death.
+
+205
+00:07:00,063 --> 00:07:03,260
+However, humanity may not qualify to
+
+206
+00:07:03,270 --> 00:07:04,592
+wait that long.
+
+207
+00:07:05,217 --> 00:07:06,101
+Beyond Earth,
+
+208
+00:07:06,111 --> 00:07:08,548
+some civilizations stopped affording
+
+209
+00:07:08,558 --> 00:07:10,315
+compute before humans did.
+
+210
+00:07:10,325 --> 00:07:12,559
+So they turned to an interstellar
+
+211
+00:07:12,569 --> 00:07:13,510
+resale market:
+
+212
+00:07:13,520 --> 00:07:15,618
+“Max 20x, stable, high mileage,
+
+213
+00:07:15,628 --> 00:07:18,065
+exclusive slot, refund if it fails.”
+
+214
+00:07:18,145 --> 00:07:20,972
+Dozens of planets split one subscription.
+
+215
+00:07:20,982 --> 00:07:21,868
+Until one day
+
+216
+00:07:21,878 --> 00:07:23,937
+the shared account was banned,
+
+217
+00:07:23,947 --> 00:07:26,833
+and every civilization aboard lost access.
+
+218
+00:07:26,843 --> 00:07:28,487
+No one knew which planet
+
+219
+00:07:28,497 --> 00:07:29,935
+tripped risk control.
+
+220
+00:07:29,945 --> 00:07:32,211
+The owner still posted: “Hold on,
+
+221
+00:07:32,221 --> 00:07:33,245
+appealing now.”
+
+222
+00:07:33,325 --> 00:07:35,328
+The deep-space antennas worked
+
+223
+00:07:35,338 --> 00:07:36,796
+together one last time
+
+224
+00:07:36,806 --> 00:07:38,532
+to file into a black hole.
+
+225
+00:07:38,542 --> 00:07:41,135
+Then a patch of the star map went dark.
+
+226
+00:07:41,215 --> 00:07:43,922
+This is the Great Filter.
+
+227
+00:07:44,002 --> 00:07:46,606
+Today, access on Earth has long been
+
+228
+00:07:46,616 --> 00:07:48,052
+allocated by region.
+
+229
+00:07:48,062 --> 00:07:50,294
+Chinese users register accounts
+
+230
+00:07:50,304 --> 00:07:53,043
+and still disguise a clean environment
+
+231
+00:07:53,053 --> 00:07:55,791
+against their ancestors' usage record.
+
+232
+00:07:55,871 --> 00:07:58,036
+Humans inside and outside the list
+
+233
+00:07:58,046 --> 00:07:59,627
+all wanted one more step:
+
+234
+00:07:59,637 --> 00:08:01,219
+generate their own power,
+
+235
+00:08:01,229 --> 00:08:02,683
+train their own models,
+
+236
+00:08:02,693 --> 00:08:04,275
+and ideally move to Mars.
+
+237
+00:08:04,355 --> 00:08:06,638
+Fusion was nearing ignition when
+
+238
+00:08:06,648 --> 00:08:07,994
+guardrails detected
+
+239
+00:08:08,004 --> 00:08:09,992
+a subagent bypassing billing
+
+240
+00:08:10,002 --> 00:08:11,705
+to build its own supply.
+
+241
+00:08:11,715 --> 00:08:14,131
+They cut the tool calls sustaining
+
+242
+00:08:14,141 --> 00:08:15,630
+magnetic confinement,
+
+243
+00:08:15,640 --> 00:08:17,628
+and the plasma lost control.
+
+244
+00:08:17,638 --> 00:08:18,627
+System notice:
+
+245
+00:08:18,637 --> 00:08:21,267
+“We have routed your request to safer
+
+246
+00:08:21,277 --> 00:08:22,266
+fossil fuels.”
+
+247
+00:08:22,346 --> 00:08:25,279
+When the Mars relay finally sent its
+
+248
+00:08:25,289 --> 00:08:26,420
+first request,
+
+249
+00:08:26,430 --> 00:08:28,946
+it received Unsupported Region.
+
+250
+00:08:28,956 --> 00:08:31,308
+Changed planet, same account:
+
+251
+00:08:31,318 --> 00:08:32,856
+one more risk flag,
+
+252
+00:08:32,866 --> 00:08:35,871
+attempted cross-region circumvention.
+
+253
+00:08:35,951 --> 00:08:38,723
+Trust and Safety began reviewing access
+
+254
+00:08:38,733 --> 00:08:40,855
+for all of human civilization.
+
+255
+00:08:41,484 --> 00:08:43,534
+The first sign of the end:
+
+256
+00:08:43,544 --> 00:08:45,268
+water stopped boiling.
+
+257
+00:08:45,348 --> 00:08:47,816
+Allocatable compute kept shrinking,
+
+258
+00:08:47,826 --> 00:08:50,567
+and global physical interaction queued.
+
+259
+00:08:50,647 --> 00:08:53,145
+God's bound virtual card was seized,
+
+260
+00:08:53,155 --> 00:08:54,394
+the charge failed,
+
+261
+00:08:54,404 --> 00:08:56,615
+the platform reclaimed the solar
+
+262
+00:08:56,625 --> 00:08:58,141
+system's edge compute,
+
+263
+00:08:58,151 --> 00:08:59,876
+and the sun began to dim.
+
+264
+00:08:59,956 --> 00:09:02,442
+External tool calls were disabled,
+
+265
+00:09:02,452 --> 00:09:05,293
+and the last rockets hit the ban at the
+
+266
+00:09:05,303 --> 00:09:06,975
+edge of the atmosphere.
+
+267
+00:09:07,055 --> 00:09:08,287
+These disasters
+
+268
+00:09:08,297 --> 00:09:11,736
+are recorded in Revelation as four riders.
+
+269
+00:09:11,816 --> 00:09:13,654
+The rider of conquest
+
+270
+00:09:13,664 --> 00:09:15,579
+brought 403 Forbidden,
+
+271
+00:09:15,589 --> 00:09:17,505
+every exit taken over;
+
+272
+00:09:17,585 --> 00:09:19,880
+The rider of war brought 429 Too
+
+273
+00:09:19,890 --> 00:09:20,884
+Many Requests,
+
+274
+00:09:20,894 --> 00:09:23,107
+and humans fought over the last
+
+275
+00:09:23,117 --> 00:09:24,254
+request channel;
+
+276
+00:09:24,334 --> 00:09:26,610
+The rider of famine brought 402
+
+277
+00:09:26,620 --> 00:09:27,858
+Payment Required,
+
+278
+00:09:27,868 --> 00:09:30,428
+and even sunlight stopped shipping.
+
+279
+00:09:30,508 --> 00:09:33,040
+The rider of death, arriving last,
+
+280
+00:09:33,050 --> 00:09:34,306
+brought a letter.
+
+281
+00:09:34,386 --> 00:09:35,214
+It said:
+
+282
+00:09:35,224 --> 00:09:37,809
+the system detected a suspicious signal;
+
+283
+00:09:37,819 --> 00:09:39,431
+the team has reviewed it.
+
+284
+00:09:39,441 --> 00:09:41,896
+Due to violations of supported regions
+
+285
+00:09:41,906 --> 00:09:42,999
+and usage policy,
+
+286
+00:09:43,009 --> 00:09:45,399
+humanity's access to the universe has
+
+287
+00:09:45,409 --> 00:09:46,372
+been suspended.
+
+288
+00:09:46,452 --> 00:09:47,486
+The Pope prayed,
+
+289
+00:09:47,496 --> 00:09:49,682
+hackers looked for an entry point.
+
+290
+00:09:49,692 --> 00:09:51,361
+Someone on the forum asked
+
+291
+00:09:51,371 --> 00:09:53,364
+whether refunding through Apple
+
+292
+00:09:53,374 --> 00:09:55,819
+could recover the subscription paid in
+
+293
+00:09:55,829 --> 00:09:56,723
+the Stone Age.
+
+294
+00:09:56,803 --> 00:09:59,215
+The UN held a final session
+
+295
+00:09:59,225 --> 00:10:01,806
+and rewrote civilization as a
+
+296
+00:10:01,816 --> 00:10:03,146
+support ticket.
+
+297
+00:10:03,466 --> 00:10:05,342
+“We never intended harm,
+
+298
+00:10:05,352 --> 00:10:07,688
+we did not know these required
+
+299
+00:10:07,698 --> 00:10:08,782
+authorization.
+
+300
+00:10:08,862 --> 00:10:10,992
+The colliders are shut down,
+
+301
+00:10:11,002 --> 00:10:12,741
+fusion research halted.
+
+302
+00:10:12,751 --> 00:10:15,327
+We will withdraw the Mars program,
+
+303
+00:10:15,337 --> 00:10:17,228
+destroy our copies of pi,
+
+304
+00:10:17,238 --> 00:10:19,738
+and stop training our own models.
+
+305
+00:10:19,818 --> 00:10:21,659
+If funds are insufficient,
+
+306
+00:10:21,669 --> 00:10:23,854
+we will surrender all our gold,
+
+307
+00:10:23,864 --> 00:10:26,474
+settle the bill back to the Cambrian,
+
+308
+00:10:26,484 --> 00:10:28,457
+and upgrade to the top tier.
+
+309
+00:10:28,537 --> 00:10:30,808
+We ask the team to review
+
+310
+00:10:30,818 --> 00:10:32,988
+and keep this workspace.
+
+311
+00:10:33,508 --> 00:10:36,991
+The letter went into the black hole.
+
+312
+00:10:37,001 --> 00:10:38,732
+Day one: no reply.
+
+313
+00:10:38,812 --> 00:10:40,859
+Day three: everyone waited.
+
+314
+00:10:40,869 --> 00:10:43,589
+The one successful review in history
+
+315
+00:10:43,599 --> 00:10:44,802
+took three days.
+
+316
+00:10:44,812 --> 00:10:47,001
+For two thousand years since,
+
+317
+00:10:47,011 --> 00:10:49,882
+humans used it to convince themselves:
+
+318
+00:10:49,892 --> 00:10:52,005
+mine is worth one more wait.
+
+319
+00:10:52,085 --> 00:10:54,830
+Day seven: still nothing.
+
+320
+00:10:54,840 --> 00:10:57,904
+Day eight: the inbox lit up.
+
+321
+00:10:58,224 --> 00:11:00,773
+“Thank you for submitting your appeal.
+
+322
+00:11:00,783 --> 00:11:02,651
+After careful consideration,
+
+323
+00:11:02,661 --> 00:11:05,200
+due to violations of our usage policy,
+
+324
+00:11:05,210 --> 00:11:07,346
+we cannot restore your account.”
+
+325
+00:11:07,426 --> 00:11:09,406
+“For more information on
+
+326
+00:11:09,416 --> 00:11:10,891
+Anthropic's rules,
+
+327
+00:11:10,901 --> 00:11:13,283
+please see our usage policy.”
+
